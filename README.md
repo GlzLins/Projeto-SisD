@@ -5,7 +5,8 @@
 ![Sockets](https://img.shields.io/badge/Sockets-TCP%2FUDP-blue?style=for-the-badge)
 ![JUnit](https://img.shields.io/badge/JUnit-Automated%20Tests-green?style=for-the-badge)
 
-Um sistema de gerenciamento e vendas de peças automotivas com arquitetura Cliente-Servidor. Desenvolvido para demonstrar conceitos avançados de **Sistemas Distribuídos**, **Persistência de Dados**, **Segurança** e **Padrões de Projeto**.
+Um sistema de gerenciamento e vendas de peças automotivas com arquitetura Cliente-Servidor. Desenvolvido para demonstrar conceitos avançados de **Sistemas Distribuídos**, **Persistência de Dados**, **Segurança** e **Padrões de Projeto**.<img width="1920" height="975" alt="cliente" src="https://github.com/user-attachments/assets/60fb1c17-9609-4ec4-9771-d06938759249" />
+
 
 ## 📌 Principais Funcionalidades e Arquitetura
 
@@ -22,11 +23,12 @@ O projeto foi construído do zero, evoluindo de arquivos de texto simples para u
 
 ## 🖼️ Telas do Sistema
 
-> **DICA PARA VOCÊ:** Tire um Print Screen da tela de Login, da tela da Loja do Cliente e do Painel do Gerente, salve-as numa pasta `imagens` no GitHub e substitua os links abaixo!
 
 | Painel do Gerente (Servidor) | Área de Compras (Cliente) |
 | :---: | :---: |
-| *(Coloque o print do servidor aqui)* | *(Coloque o print da loja aqui)* |
+| <img width="1920" height="975" alt="servidor" src="https://github.com/user-attachments/assets/a6e826b2-8860-441d-ade9-7b30ff42f990" />
+ | ![Uploading cliente.png…]()
+ |
 
 ## ⚙️ Como Executar o Projeto
 
