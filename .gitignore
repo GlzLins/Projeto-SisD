@@ -1,0 +1,13 @@
+# Ignora arquivos compilados do Java
+bin/
+*.class
+
+# Ignora o banco de dados local
+*.db
+
+# Ignora arquivos de texto e recibos de clientes
+recibos/
+*.txt
+
+# Ignora configurações do sistema operacional
+.DS_Store
