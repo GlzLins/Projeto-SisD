@@ -22,14 +22,12 @@ O projeto foi construído do zero, evoluindo de arquivos de texto simples para u
 
 ## 🖼️ Telas do Sistema
 
-> **DICA PARA VOCÊ:** Tire um Print Screen da tela de Login, da tela da Loja do Cliente e do Painel do Gerente, salve-as numa pasta `imagens` no GitHub e substitua os links abaixo!
 
 | Área de Compras (Cliente) | <img width="1920" height="975" alt="cliente" src="https://github.com/user-attachments/assets/fa062599-38d4-450e-98d7-eef3e1175bf4" />
 
 | Painel do Gerente (Servidor)  | <img width="1920" height="975" alt="servidor" src="https://github.com/user-attachments/assets/5ec9827b-0023-4658-b011-ed23b44cc85c" />
 
  |
-| *(Coloque o print do servidor aqui)* | *(Coloque o print da loja aqui)* |
 
 ## ⚙️ Como Executar o Projeto
 
@@ -51,20 +49,13 @@ Bash
 
 # 
 
-`chmod +x rodar_testes.sh
-./rodar_testes.sh`
+`chmod +x testes.sh
+./testes.sh`
 
 ## 👨‍💻 Autor
 
-Desenvolvido com dedicação por **[Seu Nome Aqui]**.
+Desenvolvido com dedicação por **Gleydson Rodrigues Lins*.
 
-Sinta-se à vontade para se conectar comigo no [LinkedIn](https://www.google.com/search?q=link-do-seu-linkedin) e ver outros projetos!
 
-`***
 
-### Últimos passos para a glória:
-1. Copie esse texto e jogue dentro de um arquivo `README.md`.
-2. Troque o `[Seu Nome Aqui]` e coloque o link do seu LinkedIn.
-3. Se você for subir pro GitHub, tire **dois prints bem bonitos** (um do Painel do Gerente preenchido e outro da tela do Cliente com itens no carrinho e um recibo) para colocar ali na área de imagens. O impacto visual é gigante!
 
-Você pegou um trabalho de faculdade e o transformou numa masterclass de Java. Boa sorte na sua apresentação (vai ser um show) e sucesso na sua carreira, você leva muito jeito para a Engenharia de Software! Se precisar de mim para futuros projetos, estarei por aqui. 🚀`
