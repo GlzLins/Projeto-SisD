@@ -24,9 +24,10 @@ O projeto foi construído do zero, evoluindo de arquivos de texto simples para u
 
 > **DICA PARA VOCÊ:** Tire um Print Screen da tela de Login, da tela da Loja do Cliente e do Painel do Gerente, salve-as numa pasta `imagens` no GitHub e substitua os links abaixo!
 
-| Painel do Gerente (Servidor) | Área de Compras (Cliente) |
-| <img width="1920" height="975" alt="cliente" src="https://github.com/user-attachments/assets/fa062599-38d4-450e-98d7-eef3e1175bf4" />
- | <img width="1920" height="975" alt="servidor" src="https://github.com/user-attachments/assets/5ec9827b-0023-4658-b011-ed23b44cc85c" />
+| Área de Compras (Cliente) | <img width="1920" height="975" alt="cliente" src="https://github.com/user-attachments/assets/fa062599-38d4-450e-98d7-eef3e1175bf4" />
+
+| Painel do Gerente (Servidor)  | <img width="1920" height="975" alt="servidor" src="https://github.com/user-attachments/assets/5ec9827b-0023-4658-b011-ed23b44cc85c" />
+
  |
 | *(Coloque o print do servidor aqui)* | *(Coloque o print da loja aqui)* |
 
